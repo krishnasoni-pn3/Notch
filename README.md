@@ -39,6 +39,8 @@ Built out of frustration with browser-based AI ("Alt-Tab fatigue") and frequent 
 
 ## 🛠️ Configuration (config.json)
 
+![Downloads](https://img.shields.io/github/downloads/krishnasoni-pn3/Notch/total?style=for-the-badge&logo=github&color=blue)
+
 Notch creates a `config.json` in your AppData folder. You can edit it manually or use voice commands to switch models.
 
 ```json
