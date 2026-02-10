@@ -2,7 +2,7 @@
 
 > **"The browser is dead. Long live the Interface."**
 
-[<img width="1920" height="1080" alt="transparent Notch" src="https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895" />
+<img width="1920" height="1080" alt="transparent Notch" src="https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895" />
 *(Note: Replace this link with a real screenshot of your overlay)*
 
 Notch is a **native, sovereign AI overlay** that lives *on top* of your Windows workflow. 
