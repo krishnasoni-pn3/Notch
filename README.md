@@ -46,7 +46,8 @@ Notch creates a `config.json` in your AppData folder. You can edit it manually o
   "provider": "groq",
   "model_groq": "llama-3.3-70b-versatile",
   "keys": {
+  
     "groq": "YOUR_KEY_HERE"
   }
-}
 
+}
