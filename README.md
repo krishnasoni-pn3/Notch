@@ -2,8 +2,6 @@
 
 > **"The browser is dead. Long live the Interface."**
 
-![Downloads](https://img.shields.io/github/downloads/krishnasoni-pn3/Notch/total?style=for-the-badge&logo=github&color=blue)
-
 <img width="1920" height="1080" alt="transparent Notch" src="https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895" />
 
 Notch is a **native, sovereign AI overlay** that lives *on top* of your Windows workflow. 
