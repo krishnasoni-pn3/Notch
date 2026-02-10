@@ -2,7 +2,7 @@
 
 > **"The browser is dead. Long live the Interface."**
 
-![Notch Overlay Demo][(https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895) 
+![Notch Overlay Demo][<img width="1920" height="1080" alt="transparent Notch" src="https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895" />
 *(Note: Replace this link with a real screenshot of your overlay)*
 
 Notch is a **native, sovereign AI overlay** that lives *on top* of your Windows workflow. 
@@ -14,7 +14,7 @@ Built out of frustration with browser-based AI ("Alt-Tab fatigue") and frequent 
 * **Zero-Latency Overlay:** Press `Win + Shift + Space` (configurable) to summon Notch instantly over VS Code, Unity, or any app. No context switching.
 * **Sovereign Memory:** Uses a local vector-lite system (`.json`) to remember your context forever. It survives reboots and power outages.
 * **God Mode:** Control your system directly.
-    * *"Turn volume up"*<img width="1920" height="1080" alt="transparent Notch" src="https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895" />
+    * *"Turn volume up"*
 
     * *"Launch Discord"*
     * *"Close Chrome"*
