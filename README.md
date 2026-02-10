@@ -50,14 +50,3 @@ Notch creates a `config.json` in your AppData folder. You can edit it manually o
   }
 }
 
-⚠️ Alpha Status (Dogfooding)
-This is Alpha Software. I built this for myself ("Dogfooding") to survive power cuts while coding.
-
-Expect bugs.
-
-Expect crashes.
-
-Feedback is Gold. Please open an Issue if you find something broken.
-
-👨‍💻 Founder
-Built by Krishna Soni (@KrishnaSoni) Founder of ProtoNeuron-3
