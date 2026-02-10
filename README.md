@@ -2,6 +2,8 @@
 
 > **"The browser is dead. Long live the Interface."**
 
+![Downloads](https://img.shields.io/github/downloads/krishnasoni-pn3/Notch/total?style=for-the-badge&logo=github&color=blue)
+
 <img width="1920" height="1080" alt="transparent Notch" src="https://github.com/user-attachments/assets/36caa492-b9ff-40bf-9c27-4525fe7f6895" />
 
 Notch is a **native, sovereign AI overlay** that lives *on top* of your Windows workflow. 
@@ -14,7 +16,6 @@ Built out of frustration with browser-based AI ("Alt-Tab fatigue") and frequent 
 * **Sovereign Memory:** Uses a local vector-lite system (`.json`) to remember your context forever. It survives reboots and power outages.
 * **God Mode:** Control your system directly.
     * *"Turn volume up"*
-
     * *"Launch Discord"*
     * *"Close Chrome"*
 * **BYOK (Bring Your Own Key):** Plug in your own **Groq (Llama 3)**, **Gemini**, or **Anthropic** keys. No monthly subscriptions. You own the intelligence.
@@ -37,8 +38,6 @@ Built out of frustration with browser-based AI ("Alt-Tab fatigue") and frequent 
 | **Music** | "Play [Song Name]" (Opens YouTube automatically) |
 | **Memory** | Just speak naturally. It remembers facts automatically. |
 
-DownLoads ---> ![Downloads](https://img.shields.io/github/downloads/krishnasoni-pn3/Notch/total?style=for-the-badge&logo=github&color=blue)
-
 ## 🛠️ Configuration (config.json)
 
 Notch creates a `config.json` in your AppData folder. You can edit it manually or use voice commands to switch models.
@@ -48,8 +47,6 @@ Notch creates a `config.json` in your AppData folder. You can edit it manually o
   "provider": "groq",
   "model_groq": "llama-3.3-70b-versatile",
   "keys": {
-  
     "groq": "YOUR_KEY_HERE"
   }
-
 }
